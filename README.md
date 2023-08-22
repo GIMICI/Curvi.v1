@@ -1,4 +1,4 @@
-# Curvy
+#  Curvy
 
 ![Curvy](https://raw.githubusercontent.com/libitx/curvy/main/media/poster.png)
 
